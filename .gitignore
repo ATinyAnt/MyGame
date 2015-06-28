@@ -1,0 +1,9 @@
+Debug/Camp.obj
+*.obj
+*.tlog
+*.log
+*.pdb
+*.ilk
+*.exe
+*.out
+*.idb
